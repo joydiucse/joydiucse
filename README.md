@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I am a passionate computer science student and a w
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydiucse&show_icons=true&theme=radical)
-
-## 📂 Projects
 <!--
+## 📂 Projects
+
 Here are a few of my notable projects:
 
 - [**Project Name**](link_to_your_project) - A brief description of what the project is about.
