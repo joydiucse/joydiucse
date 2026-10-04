@@ -102,13 +102,4 @@ I'm a backend-focused full-stack engineer with **6+ years** of experience buildi
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joydiucse&show_icons=true&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydiucse&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
-
----
-
 <p align="center">💬 Open to discussing backend architecture, legacy modernization, and AI-enabled engineering. Feel free to reach out!</p>
